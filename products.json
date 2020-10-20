@@ -1,0 +1,141 @@
+[{
+        "code": 1,
+        "title": "ERU Goudkuipje naturel",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363531383338_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.95,
+        "description": "ERU Goudkuipje is een roomzachte smeerkaas, gemaakt van goudse kazen. ERU Goudkuipje is lekker op de boterham, maar ook heerlijk op een cracker met plakjes komkommer."
+    },
+    {
+        "code": 2,
+        "title": "Chiquita Bananen",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545237303430353637_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.99,
+        "description": "Bananen hebben een zachte en zoete smaak. De banaan is de bekendste tropische fruitsoort."
+    },
+    {
+        "code": 3,
+        "title": "AH Boterhamzakjes groot",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363730323333_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 0.59,
+        "description": "Boterhamzakjes groot met sluitclips."
+    },
+    {
+        "code": 4,
+        "title": "Nutella Hazelnootpasta",
+        "image_url": "https://static.ah.nl/static/product/AHI_434d50323235323332_2_LowRes_JPG.JPG?options=399,q85",
+        "price": 4.85,
+        "description": "Nutella, hazelnootpasta met cacao"
+    },
+    {
+        "code": 5,
+        "title": "Red Bull White Edition",
+        "image_url": "https://www.compliment.nl/wp-content/uploads/2019/02/36153.jpg",
+        "price": 1.45,
+        "description": "Red bull energy drink is speciaal ontwikkeld voor momenten waarop je meer wilt presteren."
+    },
+    {
+        "code": 6,
+        "title": "Chocomel Halfvol",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363039303133_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.65,
+        "description": "Warm en koud net zo lekker."
+    },
+    {
+        "code": 7,
+        "title": "Corona Extra Pils",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545238313437323935_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 8.99,
+        "description": "Corona is een populair en zeer verfrissend bier uit Mexico dat mensen inspireert om te breken met de dagelijkse routine en meer tijd samen door te brengen."
+    },
+    {
+        "code": 8,
+        "title": "AH Maaltijdsalade kip Caesar",
+        "image_url": "https://static.ah.nl/static/product/AHI_434d50323130323035_5_LowRes_JPG.JPG?options=399,q85",
+        "price": 4.19,
+        "description": "Maaltijdsalade met gegrilde kipfiletreepjes, ijsbergsla, romanasla, kaasschilfers, ei, aardappel, knoflookcroutons en caesardressing"
+    },
+    {
+        "code": 9,
+        "title": "Yum Yum Chicken flavour instant noodles",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363732323432_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 0.44,
+        "description": "Yum Yum kip is een lekkere Thaise instant noodlesoep met kipsmaak, naar smaak te verrijken met peper, kruiden en olie."
+    },
+    {
+        "code": 10,
+        "title": "Quaker Cruesli chocolade",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363531343030_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 4.25,
+        "description": "Een smaakvol, krokant en voedzaam ontbijt voor het hele gezin!"
+    },
+    {
+        "code": 11,
+        "title": "De Ruijter Hagelslag puur",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363737333339_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.99,
+        "description": "Heerlijke pure hagelslag om wat-dan-ook lekker mee te versieren."
+    },
+    {
+        "code": 12,
+        "title": "AH Halfvolle melk",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363838353732_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.45,
+        "description": "Een koud glas halfvolle melk is op elk moment van de dag heerlijk. En ook nog eens heel gezond."
+    },
+    {
+        "code": 13,
+        "title": "Pickwick English tea zwarte thee",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363130363131_2_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.89,
+        "description": "Een rijke melange van theesoorten uit de beste theelanden."
+    },
+    {
+        "code": 14,
+        "title": "Mesta Organic Tempranillo",
+        "image_url": "https://static.ahold.com/cmgtcontent/media//001705900/000/001705990_002_225278_708.jpg?options=399,q85",
+        "price": 4.99,
+        "description": "Met deze vriendelijke wijn zit je altijd goed. Hij past bij borrelhapjes, kaas, pasta en een stamppotje. Gemaakt van biologisch verbouwde tempranillodruiven."
+    },
+    {
+        "code": 15,
+        "title": "Page Origineel schoon toiletpapier",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239363632383136_1_LowRes_JPG.JPG?options=399,q85",
+        "price": "10.99",
+        "description": "Page toiletpapier is natuurlijk zacht en sterk. Bovendien heeft het zachte papier een leuke puppy print. Kortom ideaal voor het hele gezin! Nr. 1 in hygiënisch schoon."
+    },
+    {
+        "code": 16,
+        "title": "Lipton Ice tea green",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545237303438303739_2_LowRes_JPG.JPG?options=399,q85",
+        "price": 2.25,
+        "description": "Een verrassend lekkere verfrissing met de lichte smaak van groene thee, dat heb je soms gewoon even nodig!"
+    },
+    {
+        "code": 17,
+        "title": "AH Stroopwafels",
+        "image_url": "https://static.ah.nl/static/product/AHI_434d50303637333139_6_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.65,
+        "description": "Deze smaakvolle wafels met roomboter stroopvulling zijn heerlijk bij de koffie of thee! Of op ieder ander moment van de dag."
+    },
+    {
+        "code": 18,
+        "title": "AH Vrieslollies",
+        "image_url": "https://static.ah.nl/static/product/AHI_434d50303835363536_4_LowRes_JPG.JPG?options=399,q85",
+        "price": 0.59,
+        "description": "Om te vriezen."
+    },
+    {
+        "code": 19,
+        "title": "Timson Rinse appelstroop",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239353732373734_1_LowRes_JPG.JPG?options=399,q85",
+        "price": 1.19,
+        "description": "Deze rinse appelstroop in het authentieke gele blikje wordt van oudsher gegeten op de boterham, in combinatie met bijv. kaas of worst, op de pannenkoeken of gebruikt bij de bereiding van vleessaus."
+    },
+    {
+        "code": 20,
+        "title": "Van Wijngaarden's Zaanse mayo tube",
+        "image_url": "https://static.ah.nl/static/product/AHI_43545239303337363637_2_LowRes_JPG.JPG?options=399,q85",
+        "price": 0.99,
+        "description": "Zaanse mayonaise is een pure mayonaise zonder bindmiddel, stabilisator of hulpstof. Deze sinds 1955 ongewijzigde receptuur zorgt voor een unieke zuivere, romige smaaksensatie."
+    }
+]
